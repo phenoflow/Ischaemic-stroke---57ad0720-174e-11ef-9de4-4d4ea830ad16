@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/ischaemic-stroke-thrombosis---primary.py
+inputModule3:
+  class: File
+  path: python/ischaemic-stroke-stenosis---primary.py
+inputModule4:
+  class: File
+  path: python/ischaemic-stroke-infarctn---primary.py
+inputModule5:
+  class: File
+  path: python/ischaemic-stroke-sequelae---primary.py
+inputModule6:
+  class: File
+  path: python/ischaemic-stroke-sided---primary.py
+inputModule7:
+  class: File
+  path: python/ischaemic-stroke-embolism---primary.py
+inputModule8:
+  class: File
+  path: python/ischaemic-stroke-precerebr---primary.py
+inputModule9:
+  class: File
+  path: python/ischaemic-stroke-brainstem---primary.py
+inputModule10:
+  class: File
+  path: python/ischaemic-stroke-occlus---primary.py
+inputModule11:
+  class: File
+  path: python/ischaemic-stroke-infarction---primary.py
+inputModule12:
+  class: File
+  path: python/ischaemic-stroke-wallenberg---primary.py
+inputModule13:
+  class: File
+  path: python/arterial-ischaemic-stroke---primary.py
+inputModule14:
+  class: File
+  path: python/ischaemic-stroke---primary.py
+inputModule15:
+  class: File
+  path: python/precerebral-ischaemic-stroke---primary.py
+inputModule16:
+  class: File
+  path: python/other-ischaemic-stroke---primary.py
+inputModule17:
+  class: File
+  path: python/stroke---primary.py
+inputModule18:
+  class: File
+  path: python/ischaemic-stroke-unspecified---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
